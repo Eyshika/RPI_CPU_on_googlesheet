@@ -15,4 +15,5 @@ https://console.developers.google.com/iam-admin/projects
 7.Share the spreadsheet with the "client email" address in the .json file and select "can edit" then delet rest of the rows.
 8. On terminal window, run python rpi_spreadsheet.py
      ![alt text](box_plot.png)
+     ![alt text](time_series.png)
 
